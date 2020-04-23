@@ -1,5 +1,4 @@
 package mjpa.iiserie;
-import mjpa.iiserie.Vehiculo;
 import java.util.*;
 
 /**
